@@ -2,11 +2,9 @@
 
 - Build and test models in the sandbox jupyter notebook
 
-- Final Executable code in 
+- Final Executable code in predictingCVD_finalmodel.ipynb
 
 ### TO DO:
 
-- functionalize the loigisticalregression(), so that it is easier to run while varying prams
-- make leaveone out function to test PE
-- undertstand why normalization gives higher log loss
 - hit log loss target of ~0.25
+- Build hybrid boosted decision tree in the future
